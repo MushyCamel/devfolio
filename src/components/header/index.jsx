@@ -66,6 +66,13 @@ const Header = ({ metadata = {}, noBlog = false }) => {
               </Link>
             </li>
           )}
+          {projects && (
+            <li className={classes.item}>
+              <Link className={classes.link} to="/projects">
+                Projects
+              </Link>
+            </li>
+          )}
         </ul>
       </div>
     </div>
