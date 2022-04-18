@@ -1,17 +1,27 @@
 import { graphql } from 'gatsby';
 import React from 'react';
 
-//import BlogPosts from '../components/blog-posts';
+import ProjectPosts from '../components/blog-posts';
 import Header from '../components/header';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import NotFound from './404';
 
 const Index = ({ data }) => {
-  const posts = data.allMarkdownRemark.edges;
-  const projects = !posts || !posts.length;
+  const projectPosts = data.allMarkdownRemark.edges;
+  const projects = !projectPosts || !projectPosts.length;
 
-//
+  if (!projectPosts || !projectPosts.length) {
+    return <NotFound />;
+  }
+
+  return (
+    <Layout>
+      <SEO title="Projects" />
+      <Header metadata={data.site.siteMetadata} />
+      {!projects && <ProjectPosts projectPosts={projectPosts} />}
+    </Layout>
+  );
 };
 
 export default Index;
