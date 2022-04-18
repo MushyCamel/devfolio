@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `marktempini.com`,
     // Your Name
     name: 'Mark Tempini',
     // Main Site Title
@@ -104,13 +104,13 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    {
+   /* {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
         name: `blog`,
       },
-    },
+    },*/ 
     {
       resolve: `gatsby-transformer-remark`,
       options: {
