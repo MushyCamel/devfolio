@@ -1,4 +1,4 @@
-/*
+
 import { Link } from 'gatsby';
 import React from 'react';
 
@@ -27,4 +27,4 @@ const SectionBlog = ({ posts }) => {
 };
 
 export default SectionBlog;
-*/
+
