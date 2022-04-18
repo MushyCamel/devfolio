@@ -15,37 +15,37 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/marktempini/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I'm a passionate game developer that has experience in both AAA and indie development teams. I specialise in narrative and level design, however, my day-to-day experience lies in Production at Rockstar's writing team.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
         name: 'Grand Theft Auto V, Grand Theft Auto Online, Red Dead Redemption 2, Red Dead Online',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
+          'Working with Rockstar North since 2018 I have had a hand in delivering multiple entries into multiple iconic series. I am involved in ensuring that all narrative elements of the project are written and implemented to wider deadlines while overseeing relevant pipelines.',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'cf.me ',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
+          'Working as a freelance designer as part of a small development team I was involved in all stages of development in creating small games for the larger app.',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
         name: 'Rebound: Dodgeball Evolved',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
+          'Originally created for Dare to be Digital 2016, the game was developed part time while studying and eventually released for Xbox and PC in 2018. I was the lead designer on the project.',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'ColourGravWav',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
+          'Part of the Global Game Jam, our entry is a time-trial parkour game where you collect noodles. I was the sole designer on the project from conception to completion. The game won the community choice award and is available on itch.io for free!',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'The Thingy',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
+          'Another Global Game Jam entry and winner of Best Design. The Thingy is a competitive two-player asemetric game based on the movie "The Thing".',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
@@ -80,19 +80,19 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Game Engines and Software',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Unity, Unreal Engine 4 & 5, Blender, Maya, Perforce, Substance Designer, Adobe After Effects, Visio etc.',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'Languages',
+        description: 'C#, JavaScript',
       },
-      {
-        name: 'Other',
+      /*{
+        name: 'Misc.',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
-      },
+          'Creating Custom Rules and "Homebrew" for TTRPGs such as Dungeons and Dragons, film studies, ',
+      },*/
     ],
   },
   plugins: [
