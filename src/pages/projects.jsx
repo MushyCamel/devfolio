@@ -11,17 +11,7 @@ const Index = ({ data }) => {
   const posts = data.allMarkdownRemark.edges;
   const projects = !posts || !posts.length;
 
-  if (!posts || !posts.length) {
-    return <NotFound />;
-  }
-
-  return (
-    <Layout>
-      <SEO title="Blog" />
-      <Header metadata={data.site.siteMetadata} />
-      {!projects && <BlogPosts posts={posts} />}
-    </Layout>
-  );
+//
 };
 
 export default Index;
