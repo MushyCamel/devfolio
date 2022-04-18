@@ -54,27 +54,22 @@ module.exports = {
       {
         name: 'Rockstar North',
         description: 'Production Coordinator: Dialogue,  September 2019 - Present',
-        link:'',
       },
       {
         name: 'Rockstar North',
         description: 'Game Tester, April 2018 - September 2019',
-        link:'',
       },
       {
         name: 'Hexterion',
         description: 'Game Designer & Co-Founder, May 2016 - March 2018',
-        link:'',
       },
       {
         name: 'Glasgow Caledonian University',
         description: 'Clinical Demonstrator, September 2017 - March 2018',
-        link:'',
        },
       {
         name: 'Freelance',
         description: 'Game Designer, April 2015 - March 2022',
-        link:'',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
