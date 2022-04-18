@@ -21,38 +21,55 @@ module.exports = {
       {
         name: 'Grand Theft Auto V, Grand Theft Auto Online, Red Dead Redemption 2, Red Dead Online',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
+          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'cf.me ',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Rebound: Dodgeball Evolved',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
+      },
+      {
+        name: 'ColourGravWav',
+        description:
+          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
+      },
+      {
+        name: 'The Thingy',
+        description:
+          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Rockstar North',
+        description: 'Production Coordinator: Dialogue,  September 2019 - Present',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Rockstar North',
+        description: 'Game Tester, April 2018 - September 2019',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Hexterion',
+        description: 'Game Designer & Co-Founder, May 2016 - March 2018',
+      },
+      {
+        name: 'Glasgow Caledonian University',
+        description: 'Clinical Demonstrator, September 2017 - March 2018',
+       },
+      {
+        name: 'Freelance',
+        description: 'Game Designer, April 2015 - March 2022',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
