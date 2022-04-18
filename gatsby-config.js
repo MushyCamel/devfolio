@@ -22,31 +22,31 @@ module.exports = {
         name: 'Grand Theft Auto V, Grand Theft Auto Online, Red Dead Redemption 2, Red Dead Online',
         description:
           'Working with Rockstar North since 2018 I have had a hand in delivering multiple entries into multiple iconic series. I am involved in ensuring that all narrative elements of the project are written and implemented to wider deadlines while overseeing relevant pipelines.',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://marktempini.com/project/my-first-blog/',
       },
       {
         name: 'cf.me ',
         description:
           'Working as a freelance designer as part of a small development team I was involved in all stages of development in creating small games for the larger app.',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+        link: 'https://marktempini.com/project/my-first-blog/',
       },
       {
         name: 'Rebound: Dodgeball Evolved',
         description:
           'Originally created for Dare to be Digital 2016, the game was developed part time while studying and eventually released for Xbox and PC in 2018. I was the lead designer on the project.',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://marktempini.com/project/my-first-blog/',
       },
       {
         name: 'ColourGravWav',
         description:
           'Part of the Global Game Jam, our entry is a time-trial parkour game where you collect noodles. I was the sole designer on the project from conception to completion. The game won the community choice award and is available on itch.io for free!',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://marktempini.com/project/my-first-blog/',
       },
       {
         name: 'The Thingy',
         description:
           'Another Global Game Jam entry and winner of Best Design. The Thingy is a competitive two-player asemetric game based on the movie "The Thing".',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://marktempini.com/project/my-first-blog/',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
