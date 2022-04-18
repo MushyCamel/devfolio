@@ -21,6 +21,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
   const twitter = get(metadata, 'author', false);
   const github = get(metadata, 'github', false);
   const linkedin = get(metadata, 'linkedin', false);
+  const projects = get(metadata, 'projects', false);
 
   return (
     <div className={classes.wrapper}>
