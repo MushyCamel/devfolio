@@ -22,32 +22,32 @@ module.exports = {
         name: 'Grand Theft Auto V, Grand Theft Auto Online, Red Dead Redemption 2, Red Dead Online',
         description:
           'Working with Rockstar North since 2018 I have had a hand in delivering multiple entries into multiple iconic series. I am involved in ensuring that all narrative elements of the project are written and implemented to wider deadlines while overseeing relevant pipelines.',
-        link: 'https://marktempini.com/blog/my-first-blog/',
+        link: 'https://marktempini.com/blog/01-Rockstar-Games-Projects/',
       },
       {
         name: 'cf.me ',
         description:
           'CHANGE',
-        link: 'https://marktempini.com/blog/my-first-blog/',
+        link: 'https://marktempini.com/blog/02-cf-me/',
       },
       {
         name: 'Rebound: Dodgeball Evolved',
         description:
           'Originally created for Dare to be Digital 2016, the game was developed part time while studying and eventually released for Xbox and PC in 2018. I was the lead designer on the project.',
-        link: 'https://marktempini.com/blog/my-first-blog/',
+        link: 'https://marktempini.com/blog/03-Rebound-Dodgeball-Evolved/',
       },
       {
         name: 'Game Jams',
         description:
           'Part of the Global Game Jam, our entry is a time-trial parkour game where you collect noodles. I was the sole designer on the project from conception to completion. The game won the community choice award and is available on itch.io for free!',
-        link: 'https://marktempini.com/blog/my-first-blog/',
+        link: 'https://marktempini.com/blog/04-Game-Jams/',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
         name: 'Rockstar North',
-        description: 'Production Coordinator: Dialogue,  September 2019 - Present',
+        description: 'Production Coordinator: Dialogue, September 2019 - Present',
         link:'',
       },
       {
