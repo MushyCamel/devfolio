@@ -4,15 +4,15 @@ title: Rockstar Games Projects
 description: 'A light (NDA Compliant) breakdown of my work at Rockstar Games.'
 ---
 
+## 2019 to Present - Production Coordinator: Dialogue
+
+Vitae veritatis quae eius quis vel soluta cumque? Facere labore velit ad autem. Nisi recusandae ducimus molestiae error ipsa quaerat, dignissimos suscipit similique itaque sunt provident quasi minus ut porro. Optio modi harum _dolore necessitatibus exercitationem_ blanditiis magni error ipsum, odit deleniti eligendi facilis, nesciunt delectus sit nostrum porro quam accusamus excepturi labore sequi maiores soluta?
+
 ## Joining in 2018 - Games Tester
 
 I first joined Rockstar North in Edinburgh as a Games Tester working in Quality Assurance. While on the team I was the contact lead for missions content on [Grand Theft Online DLC](https://www.youtube.com/watch?v=5FBipicBoJg) content before making a shift to testing narrative content on both [Read Dead Redemption 2](https://www.youtube.com/watch?v=HVRzx17WHVk) and Read Dead Redemption Online. My day-to-day included ccreating testing plans to fully evaluate the current state of a content's dialogue, writing and automating dialogue reports, and working closely with scripters and producers to close out and manage pipelines.
 
 ![Read Dead Redemption](./Games-Red-Dead-Redemption-Open-World-2.jpg)
-
-## 2019 to Present - Production Coordinator: Dialogue
-
-Vitae veritatis quae eius quis vel soluta cumque? Facere labore velit ad autem. Nisi recusandae ducimus molestiae error ipsa quaerat, dignissimos suscipit similique itaque sunt provident quasi minus ut porro. Optio modi harum _dolore necessitatibus exercitationem_ blanditiis magni error ipsum, odit deleniti eligendi facilis, nesciunt delectus sit nostrum porro quam accusamus excepturi labore sequi maiores soluta?
 
 ### Porro veritatis placeat nemo impedit
 
