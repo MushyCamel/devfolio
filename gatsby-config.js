@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/marktempini/`,
     // Content of the About Me section
-    about: `I'm a passionate game developer that has experience in both AAA and indie development teams. I specialise in narrative and level design, however, my day-to-day experience lies in Production at Rockstar's writing team.`,
+    about: `I'm a passionate game developer that has experience in both AAA and indie development teams. I specialise in narrative, level design and production.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -27,7 +27,7 @@ module.exports = {
       {
         name: 'cf.me ',
         description:
-          'CHANGE',
+          'We created two games as part of a wider news app that was developed with a philosophy of the experience being easy to pick up and difficult to master.',
         link: 'https://marktempini.com/blog/02-cf-me/',
       },
       {
