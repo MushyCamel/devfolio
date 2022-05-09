@@ -1,7 +1,7 @@
 ---
 title: Rockstar Games Projects
 
-description: 'Ducimus perferendis porro cumque ea error ab voluptatem'
+description: 'A light (NDA Compliant) breakdown of my work at Rockstar Games.'
 ---
 
 ## Joining in 2018 - Games Tester
