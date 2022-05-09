@@ -5,12 +5,9 @@ description: 'Award Winning and BAFTA-Nominated Indie Game'
 
 ### About
 
-Rebound is a Sci-Fi dodge-ball game that was made by myself and small team for Dare to be Digital in 2016. The game is a 1-4 player top down arcade game with rotating levels and mutators that keep each rough fresh. During it's development I was the sole designer on the team but also branched out into production, writing and implementation. The game was selected as the first place winner of Dare to be Digital and was nominated for a BAFTA as a result.
-
-![Rebound Trailer](./ReboundTrailer.mp4)
+[Rebound](./ReboundTrailer.mp4) is a Sci-Fi dodge-ball game that was made by myself and small team for Dare to be Digital in 2016. The game is a 1-4 player top down arcade game with rotating levels and mutators that keep each rough fresh. During it's development I was the sole designer on the team but also branched out into production, writing and implementation. The game was selected as the first place winner of Dare to be Digital and was nominated for a BAFTA as a result.
 
 ![Midgame](./Rebound_1.jpg)
-
 ### Responsibilites
 
 My responsibilities on the project included:
