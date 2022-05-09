@@ -26,13 +26,13 @@ const Header = ({ metadata = {}, noBlog = false }) => {
   return (
     <div className={classes.wrapper}>
       <div className={classes.imageWrapper}>
-        <Link to="/">
+        <Link to="/" target="_blank">
           <img className={classes.image} src={profileImg} alt={metadata.name} />
         </Link>
       </div>
       <div className={classes.contentWrapper}>
         <h1 className={classes.name}>
-          <Link to="/">{metadata.name}</Link>
+          <Link to="/" target="_blank">{metadata.name}</Link>
         </h1>
         <p className={classes.description}>{metadata.description}</p>
         <ul className={classes.list}>
