@@ -27,8 +27,8 @@ const BlogPost = ({ data }) => {
         dangerouslySetInnerHTML={{ __html: post.html }}
       />
       <Video
-        videoSrcURL={frontmatter.videoSrcURL}
-        videoTitle={frontmatter.videoTitle}
+        videoSrcURL={post.frontmatter.videoSrcURL}
+        videoTitle={post.frontmatter.videoTitle}
       />
     </Layout>
   );
