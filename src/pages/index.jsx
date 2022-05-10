@@ -19,7 +19,6 @@ const Index = ({ data }) => {
   const skills = get(data, 'site.siteMetadata.skills', false);
   const posts = data.allMarkdownRemark.edges;
   const noBlog = !posts || !posts.length;
-  const video = get(data, 'site.siteMetadata.video', false);
 
   return (
     <Layout>
@@ -31,10 +30,9 @@ const Index = ({ data }) => {
         <SectionExperience experience={experience} />
       )}
       {skills && skills.length && <SectionSkills skills={skills} />}
-      {video && 
-        (<video controls>
+      <video controls>
           <source src="Showreal_2021.mp4" type="video/mp4"></source>
-        </video>)}
+        </video>
     </Layout>
     
   );
