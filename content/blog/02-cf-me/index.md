@@ -1,6 +1,6 @@
 ---
 title: Cf.me 
-description: 'Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat'
+description: 'Designing mobile games that integrate with a parent app'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit

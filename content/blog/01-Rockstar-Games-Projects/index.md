@@ -6,7 +6,7 @@ description: 'A light (NDA Compliant) breakdown of my work at Rockstar Games.'
 
 ## 2019 to Present - Production Coordinator: Dialogue
 
-Vitae veritatis quae eius quis vel soluta cumque? Facere labore velit ad autem. Nisi recusandae ducimus molestiae error ipsa quaerat, dignissimos suscipit similique itaque sunt provident quasi minus ut porro. Optio modi harum _dolore necessitatibus exercitationem_ blanditiis magni error ipsum, odit deleniti eligendi facilis, nesciunt delectus sit nostrum porro quam accusamus excepturi labore sequi maiores soluta?
+I work closely with Writers and Design Directors across all of Rockstar's active projects that involve creative text and dialogue. As a result I am very familiar with motion capture, voice over and implementation pipelines that deliver dialogue as well as how they are hooked-up in game. During my time there I've been the sole Dialogue Producer overseeing Grand Theft Auto Online's DLC packs releasing a minimum of 2 full packs a year at the time of writing. I am also involved heavily in the creation, streamlining and management of dialogue piplines for motion capture, voice over and ambient audio.
 
 ## Joining in 2018 - Games Tester
 

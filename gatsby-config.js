@@ -90,7 +90,7 @@ module.exports = {
     ],
     video: [
       {
-        scr: '..\components\video\Showreal_2021.mp4',
+        src: '..\components\video\Showreal_2021.mp4',
         title:'Showreel'
       }
     ],

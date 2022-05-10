@@ -2,7 +2,6 @@ import React from 'react';
 
 import Section from '../section';
 import SummaryItem from '../summary-item';
-import Video from '../video/video';
 
 const SectionSkills = ({ skills }) => {
   return (
