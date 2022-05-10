@@ -25,8 +25,6 @@ const Index = ({ data }) => {
     <Layout>
       <SEO />
       <Header metadata={data.site.siteMetadata} noBlog={noBlog} />
-
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/ipTYCTXMD1U?controls=0&autoplay=1&mute=1" title="Mark Tempini Showreel 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       {about && <SectionAbout about={about} />}
       {projects && projects.length && <SectionProjects projects={projects} />}
       {experience && experience.length && (
