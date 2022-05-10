@@ -25,8 +25,8 @@ const Index = ({ data }) => {
     <Layout>
       <SEO />
       <Header metadata={data.site.siteMetadata} noBlog={noBlog} />
-      <video controls>
-          <source media='https://youtu.be/ipTYCTXMD1U' type='video/mp4'></source>
+      <video width="560" height="315" controls>
+          <source src="https://www.youtube.com/embed/ipTYCTXMD1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></source>
       </video>
       {about && <SectionAbout about={about} />}
       {projects && projects.length && <SectionProjects projects={projects} />}
