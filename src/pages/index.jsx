@@ -31,10 +31,9 @@ const Index = ({ data }) => {
       )}
       {skills && skills.length && <SectionSkills skills={skills} />}
       <video controls>
-          <source src="Showreal_2021.mp4" type="video/mp4"></source>
-        </video>
+          <source src="Showreal_2021.mp4" type="video/mp4">
+      </video>
     </Layout>
-    
   );
 };
 
