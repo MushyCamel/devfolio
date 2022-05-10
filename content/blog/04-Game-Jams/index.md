@@ -1,6 +1,6 @@
 ---
 title: Game Jams 
-description: 'Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat'
+description: 'The weird and wonderful creations from 48 hour bursts of game development'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit

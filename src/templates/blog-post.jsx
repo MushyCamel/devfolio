@@ -5,6 +5,7 @@ import React from 'react';
 import Header from '../components/header';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
+import Video from '../components/video/video';
 
 const classes = {
   wrapper: 'mt-16 blog-content',
@@ -24,6 +25,10 @@ const BlogPost = ({ data }) => {
       <div
         className={classes.wrapper}
         dangerouslySetInnerHTML={{ __html: post.html }}
+      />
+      <Video
+        videoSrcURL={frontmatter.videoSrcURL}
+        videoTitle={frontmatter.videoTitle}
       />
     </Layout>
   );
@@ -52,6 +57,8 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        videoSrcURL
+        videoTitle
       }
     }
   }

@@ -1,7 +1,7 @@
 ---
 title: Guiding With a Soft Touch - Academic Research
 date: '2020-10-10T12:00:00.00Z'
-description: 'Dolor inventore quasi necessitatibus odio eaque doloribus'
+description: 'An honours project turned published academic paper'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit
