@@ -26,9 +26,9 @@ const Index = ({ data }) => {
       <SEO />
       <Header metadata={data.site.siteMetadata} noBlog={noBlog} />
       <video width="560" height="315" controls autoplay loop>
-          <source src="https://www.youtube.com/embed/ipTYCTXMD1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-          <source src='Showreal_2021.mp4' type='video/mp4'>
-          <source src='Showreal_2021.ogg' type='video/ogg'>
+          <source src="https://www.youtube.com/embed/ipTYCTXMD1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></source>
+          <source src='Showreal_2021.mp4' type='video/mp4'></source>
+          <source src='Showreal_2021.ogg' type='video/ogg'></source>
       </video>
       {about && <SectionAbout about={about} />}
       {projects && projects.length && <SectionProjects projects={projects} />}
