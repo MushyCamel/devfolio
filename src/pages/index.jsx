@@ -26,7 +26,7 @@ const Index = ({ data }) => {
       <SEO />
       <Header metadata={data.site.siteMetadata} noBlog={noBlog} />
       <video controls>
-          <source media='Showreal_2021.mp4' type='video/mp4'></source>
+          <source media='https://youtu.be/ipTYCTXMD1U' type='video/mp4'></source>
       </video>
       {about && <SectionAbout about={about} />}
       {projects && projects.length && <SectionProjects projects={projects} />}
