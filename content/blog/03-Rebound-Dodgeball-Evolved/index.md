@@ -5,7 +5,7 @@ videoSrcURL: https://www.youtube.com/embed/YH5oCHWW4tk
 videoTitle: 'Rebound Dodgeball Evolved Trailer (2019)'
 ---
 
-<video width="320" height="240" controls>
+<video controls>
   <source src="ReboundTrailer.mp4" type="video/mp4">
 </video>
 
