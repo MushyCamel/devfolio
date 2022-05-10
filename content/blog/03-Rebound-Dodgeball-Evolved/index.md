@@ -1,7 +1,7 @@
 ---
 title: Rebound Dodgeball Evolved
 description: 'Award Winning and BAFTA-Nominated Indie Game'
-videoSourceURL: https://www.youtube.com/embed/YH5oCHWW4tk
+videoSrcURL: https://www.youtube.com/embed/YH5oCHWW4tk
 videoTitle: 'Rebound Dodgeball Evolved Trailer (2019)'
 ---
 
