@@ -80,13 +80,19 @@ module.exports = {
       },
       {
         name: 'Languages',
-        description: 'C#, JavaScript',
+        description: 'C#, JavaScript, css, HTML5',      
       },
       /*{
         name: 'Misc.',
         description:
           'Creating Custom Rules and "Homebrew" for TTRPGs such as Dungeons and Dragons, film studies, ',
       },*/
+    ],
+    video: [
+      {
+        scr: 'src\components\video\Showreal_2021.mp4',
+        title:'Showreel'
+      }
     ],
   },
   plugins: [

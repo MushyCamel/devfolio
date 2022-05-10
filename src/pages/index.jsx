@@ -67,6 +67,10 @@ export const pageQuery = graphql`
           name
           description
         }
+        video{
+          src
+          title
+        }
       }
     }
     allMarkdownRemark(
