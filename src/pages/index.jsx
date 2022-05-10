@@ -30,9 +30,9 @@ const Index = ({ data }) => {
         <SectionExperience experience={experience} />
       )}
       {skills && skills.length && <SectionSkills skills={skills} />}
-      {<video controls>
-         <source src="Showreal_2021.mp4" type="video/mp4"/>
-      </video>}
+      <video control>
+        <source src='../components/video/Showreal_2021.mp4' type='video/mp4'></source>
+      </video>
     </Layout>
     
   );
