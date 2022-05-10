@@ -8,7 +8,7 @@ const SectionAbout = ({ about }) => {
     <Section title="About Me">
       <div className="mb-6">
         <p>{about}</p>
-        <center style='padding:20px'>
+        <center style='padding-top:20px'>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/ipTYCTXMD1U?autoplay=1&mute=1" title="Mark Tempini Showreel 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </center>
       </div>
