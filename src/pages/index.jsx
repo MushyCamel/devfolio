@@ -10,6 +10,7 @@ import SectionExperience from '../components/section-experience';
 import SectionProjects from '../components/section-projects';
 import SectionSkills from '../components/section-skills';
 import SEO from '../components/seo';
+import Video from '../components/video/video';
 
 const Index = ({ data }) => {
   const about = get(data, 'site.siteMetadata.about', false);
@@ -29,7 +30,11 @@ const Index = ({ data }) => {
         <SectionExperience experience={experience} />
       )}
       {skills && skills.length && <SectionSkills skills={skills} />}
+      {<video controls>
+         <source src="../components/video/Showreal_2021.mp4" type="video/mp4"/>
+      </video>}
     </Layout>
+    
   );
 };
 
