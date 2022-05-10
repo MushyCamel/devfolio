@@ -10,7 +10,7 @@ const SectionAbout = ({ about }) => {
         <p>{about}</p>
       </div>
       <video controls>
-          <source src='..\components\section-about\Showreal_2021.mp4' type='video/mp4'></source>
+          <source src='./Showreal_2021.mp4' type='video/mp4'></source>
       </video>
     </Section>
   );
