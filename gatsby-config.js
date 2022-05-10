@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/marktempini/`,
     // Content of the About Me section
-    about: `I'm a passionate game developer that has experience in both AAA and indie development teams. I specialise in narrative, level design and production.`,
+    about: `I'm a passionate game developer that has experience in both AAA and indie development teams. I specialise in narrative, level design and production. Have a look at a selection of the projects I've worked:`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
