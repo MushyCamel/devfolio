@@ -251,14 +251,12 @@ pre[class*='language-'] {
 }
 
 .auto-resizable-iframe {
-  max-width: 720px;
   margin: 0px auto;
 }
 
 .auto-resizable-iframe > div {
   position: relative;
   padding-bottom: 60%;
-  padding-top: 10px;
   height: 0px;
 }
 
