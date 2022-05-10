@@ -9,9 +9,6 @@ const SectionAbout = ({ about }) => {
       <div className="mb-6">
         <p>{about}</p>
       </div>
-      <video controls>
-          <source media='ReboundTrailer.mp4' type='video/mp4'></source>
-      </video>
     </Section>
   );
 };
