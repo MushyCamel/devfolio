@@ -88,12 +88,6 @@ module.exports = {
           'Creating Custom Rules and "Homebrew" for TTRPGs such as Dungeons and Dragons, film studies, ',
       },*/
     ],
-    video: [
-      {
-        src: 'Showreal_2021.mp4',
-        title:'Showreel'
-      }
-    ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
