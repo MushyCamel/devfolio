@@ -10,7 +10,7 @@ const SectionAbout = ({ about }) => {
         <p>{about}</p>
       </div>
       <video controls>
-          <source media='Showreal_2021.mp4' type='video/mp4'></source>
+          <source media='ReboundTrailer.mp4' type='video/mp4'></source>
       </video>
     </Section>
   );
