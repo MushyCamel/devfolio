@@ -116,7 +116,7 @@ The project’s lifecycle is based on Iterative Design Development which is a wi
 Distinguishing the theme and how techniques will be used in the requirement stage allows for the design to begin on a solid foundation. To create a level close to what would be in a released game, an analysis of AAA games with large open levels or worlds was conducted. Below (Table 1) the results of the analysis are presented. The games chosen primarily follow a single humanoid character; therefore, Massively Multiplayer Online Role-Playing Games (MMORPGs), open sandbox games, nonlinear driving games and games that take place in space were not listed. The games and franchises chosen were also under the restriction of having at least one release within the past 5 years or have maintained a large player base, meaning they had to be relevant to modern practices.
 
 | Total Games                                                  	    | Main Environmental Aspect 	|
-|-------------------------------------------------------------------|---------------------------:	|
+|-------------------------------------------------------------------|---------------------------	|
 | 37 Games/Franchises <br> (Franchises had between 2 and 9+ games) 	| Forest/Nature - 18        	|
 |                                                              	    | Urban – 15                	|
 |                                                              	    | Other - 4                 	|
@@ -130,7 +130,7 @@ _Figure 3. Layout moodboard._
 Following a literature review and market review of current game environments, a large amount of techniques were narrowed down and planned according to the demands of the level’s aesthetics. Establishing a theme allowed for a high-level overview of the techniques and how they would be used within the given context. The following table (Table 2) summarises the techniques and their envisioned usage in the design and implementation stage.
 
 | Technique    |   | Usage                                                                                                                                            |
-|--------------|---|-------------------------------------------------------------------------------------------------------------------------------------------------:|
+|--------------|---|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Light        |   | Dense vegetation and natural sunlight breaking through trees to grab player attention. Lanterns or small fires in urban and camping areas.       |
 | Colour       |   | Repeating colour—white on a green forest background. Contrasting textures of paths and ground to lead player                                     |
 | Architecture |   | Environmental landmasses to direct player attention through landmarks such as mountains. Framing objectives and blocking geometry using foliage. |
@@ -179,11 +179,10 @@ The heatmaps tracked the player’s path through the level and were aligned agai
 _Figure 6. Expert review participant routes. Blue is the intended route._
 
 | Questions                                                                     |   | Participants' answers                                                                                                                                                                                                                                                        |
-|-------------------------------------------------------------------------------|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|-------------------------------------------------------------------------------|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Did you feel there was something missing from what you played?                |   | No player mentioned missing UI; however, several expressed a lack of interactivity and the world feeling empty.                                                                                                                                                              |
 | How did the level feel to you in terms of linearity?                          |   | Half of participants said they felt the level was linear, and those that did not identified the scale as the reason. Green from figure 6 did not feel the level was linear at all. Those that did feel it was linear said it felt that there was only one correct way to go. |
 | When playing, how did you proceed when you were unsure of the next objective? |   | Participants were split—they either followed the path or followed landmarks, such as the fire or the mountain and town. Those that followed the path were the ones who believed the level was most linear.                                                                   |
-
 
 
 _Table 3. A selection of questions and answers addressing the level and its gameplay._
