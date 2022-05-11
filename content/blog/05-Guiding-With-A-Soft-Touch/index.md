@@ -148,3 +148,117 @@ Finally, the aspect of linearity was addressed. As there were several new routes
 ## Final Review
 At first glance the heatmap looks just as varied as before. However, after closer analysis, participants that had played the level before were coloured yellow revealing that all of them had taken the same alternative route. It is also worth noting that the massive variations from the desired route, especially in the top right of figure 8, were all from one participant. There was a significant decrease in the amount of people attempting to explore the fire. Many did not try, and those that did were instantly turned away due to the audio feedback that played. The overall navigation in the urban area was also greatly improved. Players moved instinctively towards the end house as soon as they had seen it, which meant that routes were less varied within the town. With the addition of the boarded-up windows, players did not try to get in to other houses as much. However, they often exclaimed a desire to see if there was a house that was not boarded up.
 
+![Figure 8](./Figure8.PNG)
+_Figure 8. Final playtest heatmap. Blue is the intended route. Yellow is previous players. Red is first-time players._
+
+As far as players adhering to the designed route, the majority were on the right path throughout the level. The graphs below show the percentage of players that took the designed route and those who did not (Figure 9) and the percentage of players who took the designed path including those who had played before (Figure 10).
+
+![Figure 9](./Figure9.PNG)
+_Figure 9. Player Routes (New Players) (Percentage)_
+
+![Figure 10](./Figure10.PNG)
+_Figure 10. Player routes (Including previous players) (Percentage)_
+
+The difference in completion rates compared to the previous playtest was significant. After the changes made, players in the final playtest had a 90% completion rate.
+
+## Final Interview
+The participants were asked the same questions as the ones in the expert review. Table 3 shows the results of 3 key questions that contributed to determining the success of the project.
+
+| Questions                                                                     |   | Participants' answers                                                                                                                                                                                                                                                        |
+|-------------------------------------------------------------------------------|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Did you feel there was something missing from what you played?            |   | Many players still felt there was a lack of interaction within the level, which was expected. However, two participants highlighted a lack of UI. They were asked if they felt they missed it and both stated they did not. Some felt there was nothing missing and some wanted a clear objective. Overall, the majority did not notice a lack of UI and those that did believed they did not need it.                                                                                                                                                              |
+| How did the level feel to you in terms of linearity?                          |   | Participants had mixed opinions regarding linearity. Overall, the majority of new players believed it was nonlinear or had the illusion of nonlinearity. |
+| When playing, how did you proceed when you were unsure of the next objective? |   | Players had varying responses from following the path to following the lanterns. Some of those who took the intended route said they just guessed. This guessing could be an indication that the techniques were subtle enough to be barely noticed yet still clear enough to guide the player through the level.                                                                   |
+
+_Table 3. Final Playtest, selection of interview answers._
+
+The observational questions were more focused on player decisions and attempting to determine how effective the level was at guiding players, which included seeing if techniques were being noticed regularly. The players largely stayed away from the fire as it looked more dangerous—those that attempted to enter had thought their character was being hurt and left because they were afraid of dying. This reaction often pushed them down the first path. The path structure for that section remained largely unchanged in the iteration which suggests the changes made to the fire is what drove the players towards the designed route.
+
+A few players mentioned that they used the mountain as a reference point to position themselves and some stated that they had moved towards it, while others made no mention of the mountain at all. Many players stated that the path’s width and colour as well as points of interest were how they knew where to go. The addition of movement of the birds and leaves blowing also caught their eye while in the forest.
+
+Those that had played it before stated that they wanted to explore more of the level and had therefore gone down an alternate route. They then discovered the old castle ruins which added to making the level feel fuller. In the urban area, there was a noticeable expansion increase in player movement, and those who still explored the area did so due to their curiosity about the boarded-up buildings. All players crossed to the other side and almost all players noticed and found the end house, either due to the smoke, light, or the door being open.
+This led the author to the conclusion that no single technique would have been enough as the different aspects involved were effective for different players—some responded to lighting, some to geometry, and some to textures.
+
+### Conclusion
+Overall, the heatmaps, observations, and the interviews gave the author large amounts of data which supported the hypothesis that players can efficiently navigate the large nonlinear level from start to finish via environmental navigational techniques that are subtly built into the level. The heatmaps and completion rates provide a visual representation of how the players moved through the level and are supported by the interviews after each participant’s session. They demonstrate that players could move through the level largely using the author’s designed route. The interviews showed that players were largely unaware of the missing UI and did not highlight its absence, while those who did notice its absence did not miss it. The interviews also helped confirm that the techniques were subtly embedded and that the level itself did not feel as though it was linear. This was a vital result, as one of the aims of the project was to create a large nonlinear level. Having the players feel that they were not being guided also added to the overall success of the project’s hypothesis. The scale of the level was not as large as most similar AAA game levels, which could potentially have an effect on the results as a whole. The project proved to be successful, which supports the author’s hypothesis that it is possible to guide players in large nonlinear levels. However, the project’s overall scale was small, so having more time to design larger levels for more participants could allow the project to have a more coherent and generalisable conclusion. Making these changes and expanding further on the success of this project could allow for a clearer understanding of alternative kinds of level design for open world and nonlinear environments.
+
+### References
+Abrams, J. (2010). Wayfinding in architecture. (MA Dissertation). University of South Florida.
+
+Anhut, A. (2014, November 9). Color theory for game design [Blog post] Retrieved from http://howtonotsuckatgamedesign.com/2014/11/color-theory-game-design-1-fundamentals/
+
+Arkane Studios. (2012). Dishonored [PS4]. Bethesda Softworks.
+
+Bethesda Softworks. (2006). The Elder Scrolls IV: Oblivion [Xbox 360, PS3]. Bethesda Softworks.
+
+Breda, L. (2008, August 19). Invisible walls. Game Career Guide. Retrieved October 24, 2016, from http://gamecareerguide.com/features/593/invisible_.php?page=1.
+
+Brown, M. (2016). Why Nathan Drake doesn’t need a compass | game maker’s toolkit [YouTube]. Retrieved October 19, 2016, from https://www.youtube.com/watch?v=k70_jvVOcG0
+
+Burgess, J. (2014). Level design in a day: How we used iterative level design to ship Skyrim and Fallout 3. Proceedings from Game Developers Conference 2014: Level Design in a Day. San Francisco, California, USA: Game Developers Conference Vault.
+
+Chittaro, L., & Scagnetto, I. (2001). Is semitransparency useful for navigating virtual environments? Proceedings of the ACM symposium on Virtual reality software and technology, pp. 159–166. New York, NY, USA: ACM.
+
+De Jong, S. (2008). The hows and whys of level design. Sjoerd De Jong.
+
+DICE. (2011). Battlefield 3 [PC]. Electronic Arts.
+
+Dickey, M. (2005). Engaging by design: How engagement strategies in popular computer and video games can inform instructional design. Educational Technology Research and Development, 53(2), 67–83.
+
+Dogu, U., & Erkip, F. (2000). Spatial factors affecting wayfinding and orientation: A case study in a shopping mall. Environment and Behavior, 32(6), 731–755.
+
+El-Nasr, M. S., Niedenthal, S., Knez, I., Almeida, P., & Zupko, J. (2006). Dynamic lighting for tension in games. Game Studies, 7(1).
+
+El-Nasr, M. S., Vasilakos, A., Rao, C., & Zupko, J. (2009). Dynamic intelligent lighting for directing visual attention in interactive 3-d scenes. IEEE Transactions on Computational Intelligence and AI in Games, 1(2), 145–153.
+
+Gilnert, E. (2008, February 13). Designing games that are accessible to everyone. Gamasutra. Retrieved October 1, 2017, from http://www.gamasutra.com/view/feature/131943/designing_games_that_are_.php.
+
+Highsmith, J., & Cockburn, D. (2001). Agile software development: The business of innovation. Computer, 34(9), 120–127.
+
+Iacovides, I., Cox, A., L., Kennedy, R., & Jennett, C. (2015). Removing the HUD: The impact of non-diegetic game elements and expertise on player involvement. CHI PLAY ’15 Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play. New York, NY, USA: ACM.
+
+Jacobsson, S., & Gomez., D. (2004). Shadowplay–Lighting in different computer game genres. Computers in Art and Design Education Conference. Copenhagen Business School, Denmark and Malmö University, Sweden.
+
+Lindley, C. (2005). The semiotics of time structure in ludic space as a foundation for analysis and design. Game Studies, 5(1).
+
+Llanos, S., & Jorgensen, K. (2011). Do players prefer integrated user interfaces? A qualitative study of game ui design issues. Proceedings of the 2011 DiGRA International Conference: Think Design Play. Utrecht School of the Arts: DiGRA.
+
+Luton, W. (2009, October 15). Making better games through iteration. Gamasutra. Retrieved October 18, 2016, from http://www.gamasutra.com/view/feature/132554/making_better_games_through_.php.
+
+Mayra, F. (2006). Welcome to mapping the global game cultures: Issues for a sociocultural study of games and players. Gaming Realities Conference Proceedings. Athens, Greece, October 4-8.
+
+Nerurkar, M. (2016, August 25). No more wrong turns. Gamasutra. Retrieved October 18, 2016, from http://www.gamasutra.com/view/feature/4115/no_more_wrong_turns.php.
+
+Norman, D. (1988). The psychology of everyday things. Basic books.
+
+Norman, D. (1999). The invisible computer. MIT Press.
+
+Nuernberger, J. (2009). Visually directing the player. UCLA Game Lab. Retrieved from http://games.ucla.edu/resource/visually-directingthe-player/
+
+Oates, B. J. (2006). Researching information systems and computing. London: Sage Publications Ltd.
+
+Pagan, T. (2001). Where’s the design in level design? Part 1. Game Developer, 8(7), 25–28.
+
+Palmer, S. E., & Schloss, K. (2010). An ecological valence theory of human color preference. Proceedings of the National Academy of Sciences of the United States of America, 107.
+
+Piaskiewicz, M. (2015, January 25). Composition in level design [blog post]. Retrieved from http://level-design.org/?page_id=2274.
+
+Salen, K., & Zimmerman, E. (2003). Rules of play: Game design fundamentals. MIT Press.
+
+Simmons, D. (2011). Colour and emotion. John Benjamins Publishing Company, USA.
+
+Solarski, C. (2013, June 21). Framing and centering: Directing player attention in open 3D worlds. Gamasutra. Retrieved from http://www.gamasutra.com/blogs/ChrisSolarski/20130621/194798/Framing_and_Centering_Directing_Player_Attention_in_Open_3D_Worlds.php.
+
+Eidos Montréal, (2014). Thief [PC]. Square Enix.
+
+Tsoupikova, D. (2006). Framing the magic. Anonymous Stereoscopic Displays and Virtual Reality Systems XIII. SPIE, 13.
+
+Tulleken, H. (2015, July 29). Color in games: An in-depth look at one of game design’s most useful tools. Gamasutra. Retrieved March 2, 2017, from http://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php
+
+Valve Corporation. (2009). Left 4 Dead 2 [PC]. Valve Corporation.
+
+Wadstein, E. (2013). Artistic techniques to influence navigational behavior in 3D-Games. Bachelor thesis, Blekinge Institute of Technology, School of Computing. Retrieved 24 Oct. 2016. Available from: https://www.diva-portal.org/smash/get/diva2:829676/FULLTEXT01.pdf
+
+Wilson, G. (2006, February 3). Off with their HUDs!: Rethinking the heads-up display in console game design. Gamasutra. Retrieved October 24, 2016, from http://www.gamasutra.com/view/feature/130948/off_with_their_huds_rethinking_.php.
+
+Winn, B., W. Peng and K. Pfeiffer., (2011). Player guiding in an active video game. Anonymous Games Innovation Conference (IGIC), IEEE International.
