@@ -48,7 +48,7 @@ export const pageQuery = graphql`
         description
         about
         author
-        github
+        artstation
         linkedin
         projects {
           name

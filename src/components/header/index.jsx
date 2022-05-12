@@ -19,7 +19,7 @@ const classes = {
 
 const Header = ({ metadata = {}, noBlog = false }) => {
   const twitter = get(metadata, 'author', false);
-  const github = get(metadata, 'github', false);
+  const artstation = get(metadata, 'artstation', false);
   const linkedin = get(metadata, 'linkedin', false);
 
 
@@ -46,10 +46,10 @@ const Header = ({ metadata = {}, noBlog = false }) => {
               </a>
             </li>
           )}
-          {github && (
+          {artstation && (
             <li className={classes.item}>
-              <a className={classes.link} href={github}>
-                GitHub
+              <a className={classes.link} href={artstation}>
+                ArtStation
               </a>
             </li>
           )}
