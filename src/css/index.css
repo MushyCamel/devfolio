@@ -251,7 +251,7 @@ pre[class*='language-'] {
 }
 
 .auto-resizable-iframe {
-  margin: 0px auto;
+  margin: 10px auto;
   padding: 10px;
 }
 
