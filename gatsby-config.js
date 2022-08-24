@@ -9,7 +9,7 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Game Designer and Producer from Scotland.`,
     // Optional: Twitter account handle
-    author: `@marktempini`,
+    author: `MarkTempini`,
     // Optional: Github account URL
     artstation: `https://www.artstation.com/marktempini`,
     // Optional: LinkedIn account URL
