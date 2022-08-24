@@ -3,55 +3,56 @@ title: Game Jams
 description: 'The weird and wonderful creations from 48 hour bursts of game development'
 ---
 
-## Lorem ipsum dolor sit amet consectetur adipisicing elit
+## The Thingy
+![The Thingy](./O9kZQq.png)
+**Role:** Generalist Designer & Artist
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
+**Release:** Windows​
 
-![Mountain](./mountain.jpg)
+**Team Size:** Game Jam Team of 4
 
-Aliquam aliquid rem facere dolorum consectetur consequatur distinctio [mollitia id modi repellendus](https://github.com/RyanFitzgerald/devfolio) vero quae dolorem commodi soluta voluptates iusto nobis est dolore provident, porro veritatis placeat nemo impedit! Asperiores culpa delectus hic qui saepe, ipsum quia, exercitationem repellendus magni soluta sit suscipit laborum ducimus.
+The Thingy is a Two player head-to-head competitive game in which player one controls the guard and is tasked with hunting down and eliminating player two; An intelligent parasite which transmits itself from host to host in an attempt to escape the research lab.
 
-## Asperiores culpa delectus hic qui saepe
+![The Thingy](./XTIt_N.png)
 
-### Facere labore velit ad autem
+###Responsibilities
 
-Vitae veritatis quae eius quis vel soluta cumque? Facere labore velit ad autem. Nisi recusandae ducimus molestiae error ipsa quaerat, dignissimos suscipit similique itaque sunt provident quasi minus ut porro. Optio modi harum _dolore necessitatibus exercitationem_ blanditiis magni error ipsum, odit deleniti eligendi facilis, nesciunt delectus sit nostrum porro quam accusamus excepturi labore sequi maiores soluta?
+-Gameplay design for both characters including weapon design and balancing.
+-Designing the narrative behind gameplay
+-Creating the base level and map balancing
+-VFX creation and VFX programming eg. blood splatters and fire.
+-Some basic level scripting for environmental elements such as doors, key codes and lighting.
 
-### Porro veritatis placeat nemo impedit
+ **[Download Game](https://hexterion.itch.io/the-thingy-)** 
 
-Veritatis et praesentium totam neque earum commodi nesciunt dolor quibusdam incidunt non, ex dicta molestias omnis maiores, maxime velit perferendis tenetur aut porro nostrum, suscipit soluta necessitatibus deserunt nobis. Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.
+Winner of Best Design Global Game Jam 2017 Glasgow 
+Winner of the Community Choice Awards 2017 Glasgow
 
-> Repudiandae iusto et iure pariatur aliquid, quisquam, non sed culpa, dignissimos recusandae facilis. Debitis hic, quaerat recusandae ad id, quis nisi perspiciatis quo aliquid natus similique.
+## ColourGravWave
+![ColourGravWave](./ColourGravWave.png)
+**Role:** Designer & Programmer
 
-Illum esse recusandae facere ipsam fugiat est eaque ducimus facilis provident, distinctio cum aut corporis officiis quo fugit, similique temporibus inventore quidem tempora commodi saepe dicta! Numquam fugiat quibusdam aut ut, voluptatibus accusamus **repellendus quas minus consequuntur** possimus! Est eaque nesciunt, reiciendis voluptate placeat aspernatur doloremque unde cum et architecto suscipit quam facere corrupti nihil odit eum minima voluptatem nobis.
+**Release:** Windows​
 
-## Voluptatibus accusamus repellendus quas minus
+**Team Size:** Game Jam Team of 5
 
-Ipsum quod, ut animi mollitia ipsam repellat, dolore voluptate quibusdam quasi reiciendis necessitatibus odio ea nostrum illo explicabo? Ducimus, in repudiandae. Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat atque aperiam, praesentium eligendi! Sed voluptas voluptatem sunt distinctio pariatur ullam? Laudantium laboriosam.
+ColourGravWave is a single player time-trial game focused on rapid movement. The player must collect all the boxes as quickly as possible by changing the coloured platfoms that push (red) and pull (blue). The game was developed as part of the Global Game Jam and won best design and best art.
 
-- Numquam fugiat quibusdam aut ut
-- Soluta necessitatibus deserunt nobis
-- Illum esse recusandae facere ipsam
+ <div class="auto-resizable-iframe">
+   <div>
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/watch?v=T6pKSMEk_Nc?autoplay=1&mute=1" title="ColourGravWave Demo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+  </div>
+</div>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus.
+###Responsibilities
 
-1. Numquam fugiat quibusdam aut ut
-2. Soluta necessitatibus deserunt nobis
-3. Illum esse recusandae facere ipsam
+-Gameplay design for both characters including weapon design and balancing.
+-Designing the narrative behind gameplay
+-Creating the base level and map balancing
+-VFX creation and VFX programming eg. blood splatters and fire.
+-Some basic level scripting for environmental elements such as doors, key codes and lighting.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
+ **[Download Game](https://hexterion.itch.io/the-thingy-)** 
 
-## Suscipit soluta necessitatibus deserunt nobi
-
-Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.
-
-```js
-const helloWorld = (name = 'World') => {
-  return `Hello ${name}!`;
-};
-
-helloWorld();
-helloWorld('John Doe');
-```
-
-Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!
+Winner of Best Design Global Game Jam 2017 Glasgow 
+Winner of the Community Choice Awards 2017 Glasgow

@@ -3,55 +3,32 @@ title: Cf.me
 description: 'Designing mobile games that integrate with a parent app'
 ---
 
-## Lorem ipsum dolor sit amet consectetur adipisicing elit
+### About
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
+[cf.me](https://cf.me) is a news app that's goal is to show both sides to every story but taking multiple sources and summarizing them in one place. My role in its development was to work on two small hyper-casual games that would launch embedded as part of the app.
 
-![Mountain](./mountain.jpg)
+![cf app](./cfme.PNG)
 
-Aliquam aliquid rem facere dolorum consectetur consequatur distinctio [mollitia id modi repellendus](https://github.com/RyanFitzgerald/devfolio) vero quae dolorem commodi soluta voluptates iusto nobis est dolore provident, porro veritatis placeat nemo impedit! Asperiores culpa delectus hic qui saepe, ipsum quia, exercitationem repellendus magni soluta sit suscipit laborum ducimus.
 
-## Asperiores culpa delectus hic qui saepe
+### Baw
 
-### Facere labore velit ad autem
+Baw was the first game developed for the app. The goal is to score as many points as possible. To do this the player must fire small balls into the play space which expand until colliding with another surface. Hitting this ball with subsequent shots lowers the health and pops it. When the ball pops it damages other nearby balls adding to a multiplier if they are also destroyed. The game was aimed at commuters to and from work which meant that we wanted a game that someone could easily pick up and play but had enough strategic depth to bring players back. I worked on this as a Designer, Motion Graphics Artist/Animator as well as Audio Designer due to the small team.
 
-Vitae veritatis quae eius quis vel soluta cumque? Facere labore velit ad autem. Nisi recusandae ducimus molestiae error ipsa quaerat, dignissimos suscipit similique itaque sunt provident quasi minus ut porro. Optio modi harum _dolore necessitatibus exercitationem_ blanditiis magni error ipsum, odit deleniti eligendi facilis, nesciunt delectus sit nostrum porro quam accusamus excepturi labore sequi maiores soluta?
+### Wurd
 
-### Porro veritatis placeat nemo impedit
+[Wurd](https://cf.me/wurd/index.html) is a word puzzle game. The game is a spin on Wordle taking inspiration from 1980s CRT text adventure games asking players to guess a six letter word and giving various clues as to how close they are based on the hexagonal icon next to the guess. I was also the primary artist on this project and due to my lack of development experience we went for a retro style that would suit the strengths of the team.
 
-Veritatis et praesentium totam neque earum commodi nesciunt dolor quibusdam incidunt non, ex dicta molestias omnis maiores, maxime velit perferendis tenetur aut porro nostrum, suscipit soluta necessitatibus deserunt nobis. Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.
+![cf app games](./BawWurd.PNG)
 
-> Repudiandae iusto et iure pariatur aliquid, quisquam, non sed culpa, dignissimos recusandae facilis. Debitis hic, quaerat recusandae ad id, quis nisi perspiciatis quo aliquid natus similique.
+### Responsibilities
 
-Illum esse recusandae facere ipsam fugiat est eaque ducimus facilis provident, distinctio cum aut corporis officiis quo fugit, similique temporibus inventore quidem tempora commodi saepe dicta! Numquam fugiat quibusdam aut ut, voluptatibus accusamus **repellendus quas minus consequuntur** possimus! Est eaque nesciunt, reiciendis voluptate placeat aspernatur doloremque unde cum et architecto suscipit quam facere corrupti nihil odit eum minima voluptatem nobis.
+My responsibilities on the projects included:
+- Designing core gameplay loops and scoring models
+- VFX and Motion Graphics Design
+- Audio design for Baw
+- Previsualization for the look and feel of the game
+- Market research and detailed analysis of competitor to present to the client
+- UI design
 
-## Voluptatibus accusamus repellendus quas minus
+The work I did on the project was super varied but at the heart I was a Designer that worked on the look and feel of the game. The team only had very limited access to a UI artist and I ended up doubling up on the work to help out where possible meaning I gained an incredible amount of experience in rapidly creating visual mockups in software like After Effects.
 
-Ipsum quod, ut animi mollitia ipsam repellat, dolore voluptate quibusdam quasi reiciendis necessitatibus odio ea nostrum illo explicabo? Ducimus, in repudiandae. Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat atque aperiam, praesentium eligendi! Sed voluptas voluptatem sunt distinctio pariatur ullam? Laudantium laboriosam.
-
-- Numquam fugiat quibusdam aut ut
-- Soluta necessitatibus deserunt nobis
-- Illum esse recusandae facere ipsam
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus.
-
-1. Numquam fugiat quibusdam aut ut
-2. Soluta necessitatibus deserunt nobis
-3. Illum esse recusandae facere ipsam
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
-
-## Suscipit soluta necessitatibus deserunt nobi
-
-Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.
-
-```js
-const helloWorld = (name = 'World') => {
-  return `Hello ${name}!`;
-};
-
-helloWorld();
-helloWorld('John Doe');
-```
-
-Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!

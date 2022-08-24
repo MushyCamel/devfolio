@@ -47,7 +47,12 @@ module.exports = {
     experience: [
       {
         name: 'Rockstar North',
-        description: 'Production Coordinator: Dialogue, September 2019 - Present',
+        description: 'Senior Production Coordinator: Online, July 2022 - Present',
+        link:'',
+      },
+      {
+        name: 'Rockstar North',
+        description: 'Production Coordinator: Dialogue, September 2019 - July 2022',
         link:'',
       },
       {
@@ -80,7 +85,7 @@ module.exports = {
       },
       {
         name: 'Languages',
-        description: 'C#, JavaScript, css, HTML5',      
+        description: 'C#, JavaScript, css, HTML5, Python',      
       },
       /*{
         name: 'Misc.',
