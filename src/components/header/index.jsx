@@ -14,7 +14,7 @@ const classes = {
   list: 'mt-6 uppercase tracking-wider',
   item: 'inline list-none pr-4',
   link:
-    'inline-block py-2 font-semibold text-xs text-gray-800 hover:text-black hover:underline-offset-1',
+    'inline-block py-2 font-semibold text-xs text-gray-800 hover:text-black hover:underline',
 };
 
 const Header = ({ metadata = {}, noBlog = false }) => {
