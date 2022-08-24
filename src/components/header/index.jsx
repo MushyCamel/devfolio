@@ -36,6 +36,13 @@ const Header = ({ metadata = {}, noBlog = false }) => {
         </h1>
         <p className={classes.description}>{metadata.description}</p>
         <ul className={classes.list}>
+        {!noBlog && (
+            <li className={classes.item}>
+              <Link className={classes.link} to="/blog">
+                Projects
+              </Link>
+            </li>
+          )}
           {twitter && (
             <li className={classes.item}>
               <a
@@ -58,13 +65,6 @@ const Header = ({ metadata = {}, noBlog = false }) => {
               <a className={classes.link} href={linkedin}>
                 LinkedIn
               </a>
-            </li>
-          )}
-          {!noBlog && (
-            <li className={classes.item}>
-              <Link className={classes.link} to="/blog">
-                Projects
-              </Link>
             </li>
           )}
         </ul>
