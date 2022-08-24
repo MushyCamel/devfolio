@@ -7,14 +7,14 @@ import profileImg from '../../images/Me.jpg';
 const classes = {
   wrapper: 'block mb-6 md:flex',
   imageWrapper: 'w-full max-w-150',
-  image: 'rounded-full transform transition-all duration-150 hover:scale-105',
+  image: 'rounded-full transform transition-all duration-150 hover:scale-110',
   contentWrapper: 'flex-none pt-6 md:pt-1 md:flex-1 md:pl-20',
-  name: 'text-5xl text-slate-900 font-bold leading-tight hover:text-black',
-  description: 'text-gray-800',
+  name: 'text-5xl text-slate-900 font-bold leading-tight underline hover:text-cyan-600',
+  description: 'text-slate-800',
   list: 'mt-6 uppercase tracking-wider',
   item: 'inline list-none pr-4',
   link:
-    'inline-block py-2 font-semibold text-xs text-gray-800 hover:text-black hover:underline',
+    'inline-block py-2 font-semibold text-xs text-slate-900 hover:text-cyan-600 hover:underline',
 };
 
 const Header = ({ metadata = {}, noBlog = false }) => {

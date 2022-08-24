@@ -4,7 +4,7 @@ import React from 'react';
 const classes = {
   wrapper: 'mb-6 background-color:#7f1d1d',
   name: 'font-semibold text-slate-900 pb-1',
-  description: 'text-md text-gray-800 font-light',
+  description: 'text-md text-gray-800 font-normal',
 };
 
 const SummaryItem = ({ name, description, link = false, internal = false }) => {
@@ -19,7 +19,7 @@ const SummaryItem = ({ name, description, link = false, internal = false }) => {
     <div className={classes.wrapper}>
       <h3
         className={`${classes.name} ${
-          link ? 'hover:underline hover:text-black' : ''
+          link ? 'underline hover:text-cyan-600' : ''
         }`}
       >
         {link ? linkContent : name}
