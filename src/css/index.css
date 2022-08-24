@@ -4,7 +4,7 @@
 
 @layer base {
   .blog-content {
-    @apply text-gray-600;
+    @apply text-gray-700;
     @apply max-w-screen-md;
   }
 
@@ -67,7 +67,7 @@
   }
 
   .blog-content h6 {
-    @apply text-gray-700;
+    @apply text-gray-800;
     @apply text-xs;
     @apply font-bold;
     @apply my-3;
@@ -103,7 +103,7 @@
 
 code[class*='language-'],
 pre[class*='language-'] {
-  color: #c5c8c6;
+  color: #67e8f9;
   text-shadow: 0 1px rgba(0, 0, 0, 0.3);
   font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier, monospace;
   font-size: 0.75rem;
