@@ -43,7 +43,7 @@ I first joined Rockstar North in Edinburgh as a Games Tester working in Quality 
 - Read Dead Redemption 2 (2018)
 - GTA Online: Arena War (2018)
 - GTA Online: After Hours (2018)
-- GTA Online Souther San Andreas Super Sport Series (2018)
+- GTA Online Southern San Andreas Super Sport Series (2018)
 
  <div class="auto-resizable-iframe">
    <div>

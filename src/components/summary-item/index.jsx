@@ -3,8 +3,8 @@ import React from 'react';
 
 const classes = {
   wrapper: 'mb-6',
-  name: 'font-semibold text-slate-900 pb-1',
-  description: 'text-md text-gray-800 font-normal',
+  name: 'font-semibold text-darkblue pb-1',
+  description: 'text-md text-darkblue font-normal',
 };
 
 const SummaryItem = ({ name, description, link = false, internal = false }) => {
@@ -19,7 +19,7 @@ const SummaryItem = ({ name, description, link = false, internal = false }) => {
     <div className={classes.wrapper}>
       <h3
         className={`${classes.name} ${
-          link ? 'hover:underline hover:text-blue-500' : ''
+          link ? 'underline hover:text-midblue transition duration-150 ease-in-out' : ''
         }`}
       >
         {link ? linkContent : name}
