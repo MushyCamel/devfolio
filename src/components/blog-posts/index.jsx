@@ -3,7 +3,7 @@ import React from 'react';
 import Section from '../section';
 import SummaryItem from '../summary-item';
 
-const projectsPosts = ({ posts }) => {
+const BlogPosts = ({ posts }) => {
   return (
     <Section title="All Projects and Posts">
       {posts.map((post) => (
@@ -19,4 +19,4 @@ const projectsPosts = ({ posts }) => {
   );
 };
 
-export default projectsPosts;
+export default BlogPosts;

@@ -8,12 +8,12 @@ import SEO from '../components/seo';
 import Video from '../components/video/video';
 
 const classes = {
-  wrapper: 'mt-16 projects-content',
+  wrapper: 'mt-16 blog-content',
   title: 'mt-16 text-4xl text-slate-900 font-bold',
   date: 'text-slate-900 font-light',
 };
 
-const projectsPost = ({ data }) => {
+const BlogPost = ({ data }) => {
   const post = data.markdownRemark;
 
   return (
@@ -34,10 +34,10 @@ const projectsPost = ({ data }) => {
   );
 };
 
-export default projectsPost;
+export default BlogPost;
 
 export const pageQuery = graphql`
-  query projectsPostBySlug($slug: String!) {
+  query BlogPostBySlug($slug: String!) {
     site {
       siteMetadata {
         name

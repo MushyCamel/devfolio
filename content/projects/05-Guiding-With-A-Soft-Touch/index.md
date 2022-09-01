@@ -185,7 +185,7 @@ Overall, the heatmaps, observations, and the interviews gave the author large am
 ### References
 Abrams, J. (2010). Wayfinding in architecture. (MA Dissertation). University of South Florida.
 
-Anhut, A. (2014, November 9). Color theory for game design [projects post] Retrieved from http://howtonotsuckatgamedesign.com/2014/11/color-theory-game-design-1-fundamentals/
+Anhut, A. (2014, November 9). Color theory for game design [Blog post] Retrieved from http://howtonotsuckatgamedesign.com/2014/11/color-theory-game-design-1-fundamentals/
 
 Arkane Studios. (2012). Dishonored [PS4]. Bethesda Softworks.
 
@@ -241,19 +241,19 @@ Pagan, T. (2001). Where’s the design in level design? Part 1. Game Developer, 
 
 Palmer, S. E., & Schloss, K. (2010). An ecological valence theory of human color preference. Proceedings of the National Academy of Sciences of the United States of America, 107.
 
-Piaskiewicz, M. (2015, January 25). Composition in level design [projects post]. Retrieved from http://level-design.org/?page_id=2274.
+Piaskiewicz, M. (2015, January 25). Composition in level design [blog post]. Retrieved from http://level-design.org/?page_id=2274.
 
 Salen, K., & Zimmerman, E. (2003). Rules of play: Game design fundamentals. MIT Press.
 
 Simmons, D. (2011). Colour and emotion. John Benjamins Publishing Company, USA.
 
-Solarski, C. (2013, June 21). Framing and centering: Directing player attention in open 3D worlds. Gamasutra. Retrieved from http://www.gamasutra.com/projectss/ChrisSolarski/20130621/194798/Framing_and_Centering_Directing_Player_Attention_in_Open_3D_Worlds.php.
+Solarski, C. (2013, June 21). Framing and centering: Directing player attention in open 3D worlds. Gamasutra. Retrieved from http://www.gamasutra.com/blogs/ChrisSolarski/20130621/194798/Framing_and_Centering_Directing_Player_Attention_in_Open_3D_Worlds.php.
 
 Eidos Montréal, (2014). Thief [PC]. Square Enix.
 
 Tsoupikova, D. (2006). Framing the magic. Anonymous Stereoscopic Displays and Virtual Reality Systems XIII. SPIE, 13.
 
-Tulleken, H. (2015, July 29). Color in games: An in-depth look at one of game design’s most useful tools. Gamasutra. Retrieved March 2, 2017, from http://www.gamasutra.com/projectss/HermanTulleken/20150729/249761/Color_in_Games.php
+Tulleken, H. (2015, July 29). Color in games: An in-depth look at one of game design’s most useful tools. Gamasutra. Retrieved March 2, 2017, from http://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_Games.php
 
 Valve Corporation. (2009). Left 4 Dead 2 [PC]. Valve Corporation.
 

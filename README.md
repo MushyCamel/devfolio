@@ -2,7 +2,7 @@
 
 ![Preview](https://user-images.githubusercontent.com/9112801/96329524-c8906600-101b-11eb-8fd8-4d45e7f0cd1b.jpg)
 
-Devfolio is a modern and production-ready personal portfolio and projects template built on GatsbyJS and styled with TailwindCSS. Easily show off your projects, experience, and skills, as well as write projects posts showcasing your knowledge.
+Devfolio is a modern and production-ready personal portfolio and blog template built on GatsbyJS and styled with TailwindCSS. Easily show off your projects, experience, and skills, as well as write blog posts showcasing your knowledge.
 
 Some of the features include:
 
@@ -10,7 +10,7 @@ Some of the features include:
 - Styled with Tailwind
 - Simple Configuration
 - Production-ready & Deployable in Seconds
-- Write projects Posts in Markdown (with Syntax Highlighting)
+- Write Blog Posts in Markdown (with Syntax Highlighting)
 - Mobile Friendly
 - Extend and Customize as Needed
 - Blazing Fast 🙄
@@ -31,7 +31,7 @@ For a live demo of a slightly customized version of the template (my own persona
   - [Projects](#projects)
   - [Experience](#experience)
   - [Skills](#skills)
-- [Setting Up The projects](#setting-up-the-projects)
+- [Setting Up The Blog](#setting-up-the-blog)
 - [Running Locally](#running-locally)
 - [Deploying](#deploying)
 - [Customization](#customization)
@@ -65,7 +65,7 @@ The _Projects_ section is defined as an array under the `projects` key in the co
 ```js
 {
   name: 'Devfolio', // Required
-  description: 'A zero-config and blazing fast personal site + projects built with GatsbyJs and TailwindCSS', // Required
+  description: 'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS', // Required
   link: 'https://github.com/RyanFitzgerald/devfolio', // Optional
 }
 ```
@@ -93,29 +93,29 @@ The _Skills_ section is defined as an array under the `skills` key in the config
 },
 ```
 
-## Setting Up The projects
+## Setting Up The Blog
 
-The projects is an optional portion of the template and the content for it exists in the `content/projects` folder. All projects posts are written in Markdown by default and the template ships with a couple sample posts so you can get an idea of what's possible (i.e. syntax highlighting). If you'd rather not have a projects, simply delete the sample posts inside the folder while ensuring that the folder itself (`content/projects`) is kept as Gatsby still looks for it (you may also need to add `.gitkeep` to the folder so git recognizes it). If there are no posts in the folder, you will not see a projects link at the top nor will you see the _Latest Posts_ section on the homepage. Once you add your first post, this will re-appear.
+The blog is an optional portion of the template and the content for it exists in the `content/blog` folder. All blog posts are written in Markdown by default and the template ships with a couple sample posts so you can get an idea of what's possible (i.e. syntax highlighting). If you'd rather not have a blog, simply delete the sample posts inside the folder while ensuring that the folder itself (`content/blog`) is kept as Gatsby still looks for it (you may also need to add `.gitkeep` to the folder so git recognizes it). If there are no posts in the folder, you will not see a Blog link at the top nor will you see the _Latest Posts_ section on the homepage. Once you add your first post, this will re-appear.
 
-### Adding a New projects Post
+### Adding a New Blog Post
 
-To create a new projects post, create a new folder in `content/projects` with the name being the URL you want for the projects post. For example, if you create a folder `content/projects/hello-world`, the resulting path to your projects post will be `mysite.com/projects/hello-world`.
+To create a new blog post, create a new folder in `content/blog` with the name being the URL you want for the blog post. For example, if you create a folder `content/blog/hello-world`, the resulting path to your blog post will be `mysite.com/blog/hello-world`.
 
 Next, create an `index.md` file in the new folder with the following at the top of the file (including the lines):
 
 ```
 ---
-title: My projects Title
+title: My Blog Title
 date: '2020-09-20T12:00:00.00Z'
-description: 'Some Short projects Post Description'
+description: 'Some Short Blog Post Description'
 ---
 
-My projects post starts here.
+My blog post starts here.
 ```
 
-The portion between both lines (`---`) is the metadata for the projects post. The `title` attribute is the post's title, the `date` is the date that shows on the projects post, and the `description` is a brief excerpt of the post that shows on the home page and the projects page for the post summary. Below the metadata is where the content of your projects post would start.
+The portion between both lines (`---`) is the metadata for the blog post. The `title` attribute is the post's title, the `date` is the date that shows on the blog post, and the `description` is a brief excerpt of the post that shows on the home page and the blog page for the post summary. Below the metadata is where the content of your blog post would start.
 
-After that is done, you should now see you're latest projects post on your site (if you deploy or run it locally). One thing to keep in mind is that by default, the homepage will show only the latest 5 projects posts based on the `date` field entered. If you added a new projects post but it's not showing up, it's possible that you entered an older date by accident.
+After that is done, you should now see you're latest blog post on your site (if you deploy or run it locally). One thing to keep in mind is that by default, the homepage will show only the latest 5 blog posts based on the `date` field entered. If you added a new blog post but it's not showing up, it's possible that you entered an older date by accident.
 
 ## Running Locally
 
@@ -182,7 +182,7 @@ One thing to note is that if you wish to query data in one of the components, yo
 The pages for the template exist in `src/pages` and are simply React components that get treated as pages by GatsbyJS. By default, the following pages exist in the template:
 
 - `src/pages/index.jsx` - the main homepage
-- `src/pages/projects.jsx` - the main `/projects` homepage
+- `src/pages/blog.jsx` - the main `/blog` homepage
 - `src/pages/404.jsx` - the default 404 page
 
 You can easily modify those pages and create new ones. Gatsby core automatically takes any React component in `src/pages/*` and turns it into a separate page (they must export a component as a default export). For example, if you make a new component as `src/pages/page1.jsx`, it will automatically create a new page that can be visited via `mysite.com/page1`. For more information on pages as well as other ways they can be created, [click here](https://www.gatsbyjs.com/docs/creating-and-modifying-pages/).

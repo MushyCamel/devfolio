@@ -5,7 +5,7 @@ import React from 'react';
 import Section from '../section';
 import SummaryItem from '../summary-item';
 
-const Sectionprojects = ({ posts }) => {
+const SectionBlog = ({ posts }) => {
   return (
     <Section title="Latest Posts">
       {posts.map((post) => (
@@ -26,5 +26,5 @@ const Sectionprojects = ({ posts }) => {
   );
 };
 
-export default Sectionprojects;
+export default SectionBlog;
 

@@ -1,7 +1,7 @@
 import { graphql } from 'gatsby';
 import React from 'react';
 
-import projectsPosts from '../components/projects-posts';
+import BlogPosts from '../components/blog-posts';
 import Header from '../components/header';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
@@ -9,7 +9,7 @@ import NotFound from '../pages/404';
 
 const Index = ({ data }) => {
   const posts = data.allMarkdownRemark.edges;
-  const noprojects = !posts || !posts.length;
+  const noBlog = !posts || !posts.length;
 
   if (!posts || !posts.length) {
     return <NotFound />;
@@ -19,7 +19,7 @@ const Index = ({ data }) => {
     <Layout>
       <SEO title="Projects" />
       <Header metadata={data.site.siteMetadata} />
-      {!noprojects && <projectsPosts posts={posts} />}
+      {!noBlog && <BlogPosts posts={posts} />}
     </Layout>
   );
 };

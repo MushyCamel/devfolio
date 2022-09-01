@@ -17,7 +17,7 @@ const classes = {
     'inline-block p-2 font-semibold text-xs rounded text-darkblue hover:bg-midblue hover:text-palewhite hover:underline transition duration-150 ease-in-out',
 };
 
-const Header = ({ metadata = {}, noprojects = false }) => {
+const Header = ({ metadata = {}, noBlog = false }) => {
   const twitter = get(metadata, 'author', false);
   const artstation = get(metadata, 'artstation', false);
   const linkedin = get(metadata, 'linkedin', false);
@@ -36,9 +36,9 @@ const Header = ({ metadata = {}, noprojects = false }) => {
         </h1>
         <p className={classes.description}>{metadata.description}</p>
         <ul className={classes.list}>
-        {!noprojects && (
+        {!noBlog && (
             <li className={classes.item}>
-              <Link className={classes.link} to="/projects">
+              <Link className={classes.link} to="/blog">
                 Projects
               </Link>
             </li>
