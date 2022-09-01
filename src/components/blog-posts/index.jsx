@@ -19,4 +19,6 @@ const blogPosts = ({ posts }) => {
   );
 };
 
+
 export default blogPosts;
+

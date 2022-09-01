@@ -13,7 +13,9 @@ const classes = {
   date: 'text-slate-900 font-light',
 };
 
-const blogPost = ({ data }) => {
+
+const BlogPost = ({ data }) => {
+
   const post = data.markdownRemark;
 
   return (
@@ -34,10 +36,12 @@ const blogPost = ({ data }) => {
   );
 };
 
-export default blogPost;
+
+export default BlogPost;
 
 export const pageQuery = graphql`
-  query blogPostBySlug($slug: String!) {
+  query BlogPostBySlug($slug: String!) {
+
     site {
       siteMetadata {
         name
