@@ -20,7 +20,7 @@ const Index = ({ data }) => {
       <SEO title="Projects" />
       <Header metadata={data.site.siteMetadata} />
       {!noblog && <blogPosts posts={posts} />}
-    </Layout>
+    </Layout> 
   );
 };
 

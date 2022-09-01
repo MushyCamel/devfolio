@@ -12,7 +12,7 @@ const blogPosts = ({ posts }) => {
           name={post.node.frontmatter.title}
           description={post.node.frontmatter.description}
           link={post.node.fields.slug}
-          internal
+          internal 
         />
       ))}
     </Section>
