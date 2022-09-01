@@ -10,7 +10,7 @@ Some of the features include:
 - Styled with Tailwind
 - Simple Configuration
 - Production-ready & Deployable in Seconds
-- Write Blog Posts in Markdown (with Syntax Highlighting)
+- Write blog Posts in Markdown (with Syntax Highlighting)
 - Mobile Friendly
 - Extend and Customize as Needed
 - Blazing Fast 🙄
@@ -31,7 +31,7 @@ For a live demo of a slightly customized version of the template (my own persona
   - [Projects](#projects)
   - [Experience](#experience)
   - [Skills](#skills)
-- [Setting Up The Blog](#setting-up-the-blog)
+- [Setting Up The blog](#setting-up-the-blog)
 - [Running Locally](#running-locally)
 - [Deploying](#deploying)
 - [Customization](#customization)
@@ -93,11 +93,11 @@ The _Skills_ section is defined as an array under the `skills` key in the config
 },
 ```
 
-## Setting Up The Blog
+## Setting Up The blog
 
-The blog is an optional portion of the template and the content for it exists in the `content/blog` folder. All blog posts are written in Markdown by default and the template ships with a couple sample posts so you can get an idea of what's possible (i.e. syntax highlighting). If you'd rather not have a blog, simply delete the sample posts inside the folder while ensuring that the folder itself (`content/blog`) is kept as Gatsby still looks for it (you may also need to add `.gitkeep` to the folder so git recognizes it). If there are no posts in the folder, you will not see a Blog link at the top nor will you see the _Latest Posts_ section on the homepage. Once you add your first post, this will re-appear.
+The blog is an optional portion of the template and the content for it exists in the `content/blog` folder. All blog posts are written in Markdown by default and the template ships with a couple sample posts so you can get an idea of what's possible (i.e. syntax highlighting). If you'd rather not have a blog, simply delete the sample posts inside the folder while ensuring that the folder itself (`content/blog`) is kept as Gatsby still looks for it (you may also need to add `.gitkeep` to the folder so git recognizes it). If there are no posts in the folder, you will not see a blog link at the top nor will you see the _Latest Posts_ section on the homepage. Once you add your first post, this will re-appear.
 
-### Adding a New Blog Post
+### Adding a New blog Post
 
 To create a new blog post, create a new folder in `content/blog` with the name being the URL you want for the blog post. For example, if you create a folder `content/blog/hello-world`, the resulting path to your blog post will be `mysite.com/blog/hello-world`.
 
@@ -105,9 +105,9 @@ Next, create an `index.md` file in the new folder with the following at the top 
 
 ```
 ---
-title: My Blog Title
+title: My blog Title
 date: '2020-09-20T12:00:00.00Z'
-description: 'Some Short Blog Post Description'
+description: 'Some Short blog Post Description'
 ---
 
 My blog post starts here.

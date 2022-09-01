@@ -185,7 +185,7 @@ Overall, the heatmaps, observations, and the interviews gave the author large am
 ### References
 Abrams, J. (2010). Wayfinding in architecture. (MA Dissertation). University of South Florida.
 
-Anhut, A. (2014, November 9). Color theory for game design [Blog post] Retrieved from http://howtonotsuckatgamedesign.com/2014/11/color-theory-game-design-1-fundamentals/
+Anhut, A. (2014, November 9). Color theory for game design [blog post] Retrieved from http://howtonotsuckatgamedesign.com/2014/11/color-theory-game-design-1-fundamentals/
 
 Arkane Studios. (2012). Dishonored [PS4]. Bethesda Softworks.
 
