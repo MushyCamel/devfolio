@@ -3,82 +3,82 @@
 @tailwind utilities;
 
 @layer base {
-  .blog-content {
+  .projects-content {
     @apply text-darkblue;
     @apply max-w-screen-md;
   }
 
-  .blog-content a {
+  .projects-content a {
     @apply text-darkblue;
     @apply underline;
   }
 
-  .blog-content p,
+  .projects-content p,
   .gatsby-highlight {
     @apply mb-6;
   }
 
-  .blog-content ul,
-  .blog-content ol {
+  .projects-content ul,
+  .projects-content ol {
     @apply mb-6;
     @apply ml-10;
   }
 
-  .blog-content ul li { 
+  .projects-content ul li { 
     @apply list-disc;
   }
 
-  .blog-content ol li {
+  .projects-content ol li {
     @apply list-decimal;
   }
 
-  .blog-content h1 {
+  .projects-content h1 {
     @apply text-4xl;
     @apply text-darkblue;
     @apply font-bold;
     @apply my-3;
   }
 
-  .blog-content h2 {
+  .projects-content h2 {
     @apply text-2xl;
     @apply text-darkblue;
     @apply font-bold;
     @apply my-3;
   }
 
-  .blog-content h3 {
+  .projects-content h3 {
     @apply text-xl;
     @apply text-darkblue;
     @apply font-bold;
     @apply my-3;
   }
 
-  .blog-content h4 {
+  .projects-content h4 {
     @apply text-darkblue;
     @apply font-bold;
     @apply my-3;
   }
 
-  .blog-content h5 {
+  .projects-content h5 {
     @apply text-darkblue;
     @apply text-sm;
     @apply font-bold;
     @apply my-3;
   }
 
-  .blog-content h6 {
+  .projects-content h6 {
     @apply text-darkblue;
     @apply text-xs;
     @apply font-bold;
     @apply my-3;
   }
 
-  .blog-content blockquote {
+  .projects-content blockquote {
     @apply pl-5;
     @apply border-l-4;
   }
 
-  .blog-content hr {
+  .projects-content hr {
     @apply my-6;
   }
 }
