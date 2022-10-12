@@ -17,16 +17,16 @@ The Thingy is a Two player head-to-head competitive game in which player one con
 
 ###Responsibilities
 
--Gameplay design for both characters including weapon design and balancing.
--Designing the narrative behind gameplay
--Creating the base level and map balancing
--VFX creation and VFX programming eg. blood splatters and fire.
--Some basic level scripting for environmental elements such as doors, key codes and lighting.
+- Gameplay design for both characters including weapon design and balancing.
+- Designing the narrative behind gameplay
+- Creating the base level and map balancing
+- VFX creation and VFX programming eg. blood splatters and fire.
+- Some basic level scripting for environmental elements such as doors, key codes and lighting.
 
  **[Download Game](https://hexterion.itch.io/the-thingy-)** 
 
-Winner of Best Design Global Game Jam 2017 Glasgow 
-Winner of the Community Choice Awards 2017 Glasgow
+- Winner of Best Design Global Game Jam 2017 Glasgow 
+- Winner of the Community Choice Awards 2017 Glasgow
 
 ## ColourGravWave
 ![ColourGravWave](./ColourGravWave.png)
@@ -46,13 +46,13 @@ ColourGravWave is a single player time-trial game focused on rapid movement. The
 
 ###Responsibilities
 
--Gameplay design for both characters including weapon design and balancing.
--Designing the narrative behind gameplay
--Creating the base level and map balancing
--VFX creation and VFX programming eg. blood splatters and fire.
--Some basic level scripting for environmental elements such as doors, key codes and lighting.
+- Gameplay design for both characters including weapon design and balancing.
+- Designing the narrative behind gameplay
+- Creating the base level and map balancing
+- VFX creation and VFX programming eg. blood splatters and fire.
+- Some basic level scripting for environmental elements such as doors, key codes and lighting.
 
  **[Download Game](https://hexterion.itch.io/the-thingy-)** 
 
-Winner of Best Design Global Game Jam 2017 Glasgow 
-Winner of the Community Choice Awards 2017 Glasgow
+- Winner of Best Design Global Game Jam 2017 Glasgow 
+- Winner of the Community Choice Awards 2017 Glasgow
