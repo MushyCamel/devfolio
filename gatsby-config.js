@@ -46,33 +46,33 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Rockstar North',
-        description: 'Senior Production Coordinator: Online, July 2022 - Present',
+        name: 'Senior Production Coordinator: Online & Ped Writer',
+        description: ', July 2022 - Present',
         link:'',
       },
       {
-        name: 'Rockstar North',
-        description: 'Production Coordinator: Dialogue, September 2019 - July 2022',
+        name: 'Production Coordinator: Dialogue',
+        description: 'Rockstar North, September 2019 - July 2022',
         link:'',
       },
       {
-        name: 'Rockstar North',
-        description: 'Game Tester, April 2018 - September 2019',
+        name: 'Game Tester',
+        description: 'Rockstar North, April 2018 - September 2019',
         link:'',
       },
       {
-        name: 'Hexterion',
-        description: 'Game Designer & Co-Founder, May 2016 - March 2018',
+        name: 'Game Designer & Co-Founder',
+        description: 'Hexterion, May 2016 - March 2018',
         link:'',
       },
       {
-        name: 'Glasgow Caledonian University',
-        description: 'Clinical Demonstrator, September 2017 - March 2018',
+        name: 'Clinical Demonstrator',
+        description: 'Glasgow Caledonian University, September 2017 - March 2018',
         link:'',
        },
       {
-        name: 'Freelance',
-        description: 'Game Designer, April 2015 - March 2022',
+        name: 'Freelance Game Designer',
+        description: 'April 2015 - March 2022',
         link:'',
       },
     ],
