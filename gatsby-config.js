@@ -47,7 +47,7 @@ module.exports = {
     experience: [
       {
         name: 'Senior Production Coordinator: Online & Ped Writer',
-        description: ', July 2022 - Present',
+        description: 'Rockstar North, July 2022 - Present',
         link:'',
       },
       {
