@@ -30,9 +30,9 @@ The Thingy is a Two player head-to-head competitive game in which player one con
 
 ## ColourGravWave
 ![ColourGravWave](./ColourGravWave.png)
-**Role:** Designer & Programmer
+**Role:** Designer
 
-**Release:** Windows​
+**Release:** Unreleased
 
 **Team Size:** Game Jam Team of 5
 
@@ -40,19 +40,18 @@ ColourGravWave is a single player time-trial game focused on rapid movement. The
 
  <div class="auto-resizable-iframe">
    <div>
-    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/watch?v=T6pKSMEk_Nc?autoplay=1&mute=1" title="ColourGravWave Demo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+    <iframe frameborder="0" allowfullscreen="" src="https://youtu.be/T6pKSMEk_Nc?autoplay=1&mute=1" title="ColourGravWave Demo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
   </div>
 </div>
 
 ###Responsibilities
 
-- Gameplay design for both characters including weapon design and balancing.
-- Designing the narrative behind gameplay
-- Creating the base level and map balancing
-- VFX creation and VFX programming eg. blood splatters and fire.
-- Some basic level scripting for environmental elements such as doors, key codes and lighting.
+- Gameplay design and systems design
+- Designing and implementing the level.
+- Audio design
+- Production and team management.
 
- **[Download Game](https://hexterion.itch.io/the-thingy-)** 
+ **[Download Game](http://globalgamejam.org/2017/games/grav-colour-wave)** 
 
 - Winner of Best Design Global Game Jam 2017 Glasgow 
 - Winner of the Community Choice Awards 2017 Glasgow
