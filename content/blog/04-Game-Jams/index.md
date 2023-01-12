@@ -40,7 +40,7 @@ ColourGravWave is a single player time-trial game focused on rapid movement. The
 
  <div class="auto-resizable-iframe">
    <div>
-    <iframe frameborder="0" allowfullscreen="" src="https://youtu.be/T6pKSMEk_Nc?autoplay=1&mute=1" title="ColourGravWave Demo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+    <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/T6pKSMEk_Nc?autoplay=1&mute=1" title="ColourGravWave Demo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
   </div>
 </div>
 
