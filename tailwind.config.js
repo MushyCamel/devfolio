@@ -8,11 +8,11 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-      'palewhite': '#F1FAEE',
+      'palewhite': '#260716',
       'redish': '#E63946',
-      'lightblue': '#A8DADC',
-      'midblue': '#457B9D',
-      'darkblue': '#1D3557',
+      'lightblue': '#26fee9',
+      'midblue': '#26fee9',
+      'darkblue': '#26fee9',
     },
     extend: {
       screens: {
