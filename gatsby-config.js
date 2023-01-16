@@ -81,7 +81,7 @@ module.exports = {
       {
         name: 'Production',
         description:
-          '- Strong experience leading and coordinating teams from initial development through launch.\
+          '- Strong experience leading and coordinating teams from initial development through launch.\r\
           - Exceptional verbal, written, and interpersonal communication skills.\
           - Expertise in common Production methodologies (eg. Agile, Waterfall) as well as software (Monday, ShotGrid, Excel, Microsoft Project, Confluence, and in-house software)\
           - Proven experience in a production role where I have supported cross-functional teams in the creation and delivery of sophisticated projects \
