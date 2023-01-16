@@ -31,7 +31,7 @@ const Layout = ({ children }) => {
               width="4"
               height="4"
               className="text-gray-200"
-              fill="#edf2f7"
+              fill="#260716"
             />
           </pattern>
         </defs>
