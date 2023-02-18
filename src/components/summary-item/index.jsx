@@ -7,7 +7,7 @@ const classes = {
   description: 'text-md text-darkblue font-normal',
 };
 
-const SummaryItem = ({ name, description, link = false, internal = false, subskills = [] }) => {
+const SummaryItem = ({ name, description, link = false, internal = false, subskills = [], softwareskills = [] }) => {
   let linkContent;
   if (internal) {
     linkContent = <Link to={link}>{name}</Link>;
@@ -24,9 +24,16 @@ const SummaryItem = ({ name, description, link = false, internal = false, subski
       >
         {link ? linkContent : name}
       </h3>
-      <p className={classes.description}>{description}</p>
-      <ul>
+      <p className={classes.description}>
+        {description}
+      </p>
+
+      <ul className="ml-4 list-disc text-md text-darkblue font-normal">
         {subskills.map(subskill => <li>{subskill}</li>)}
+      </ul>
+
+      <ul className="ml-4 list-disc columns: 2 text-md text-darkblue font-normal">
+        {softwareskills.map(softwareskills => <li>{softwareskills}</li>)}
       </ul>
     </div>
   );
