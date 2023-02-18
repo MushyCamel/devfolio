@@ -7,7 +7,7 @@ const classes = {
   description: 'text-md text-darkblue font-normal',
 };
 
-const SummaryItem = ({ name, description, link = false, internal = false }) => {
+const SummaryItem = ({ name, description, link = false, internal = false, subskills = [] }) => {
   let linkContent;
   if (internal) {
     linkContent = <Link to={link}>{name}</Link>;
@@ -25,6 +25,9 @@ const SummaryItem = ({ name, description, link = false, internal = false }) => {
         {link ? linkContent : name}
       </h3>
       <p className={classes.description}>{description}</p>
+      <ul>
+        {subskills.map(subskill => <li>{subskill}</li>)}
+      </ul>
     </div>
   );
 };
