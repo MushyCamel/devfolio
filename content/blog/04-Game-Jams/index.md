@@ -25,8 +25,8 @@ The Thingy is a Two player head-to-head competitive game in which player one con
 
  **[Download Game](https://hexterion.itch.io/the-thingy-)** 
 
-- Winner of Best Design Global Game Jam 2017 Glasgow 
-- Winner of the Community Choice Awards 2017 Glasgow
+- Winner of Best Design Global Game Jam 2018 Glasgow 
+- Winner of the Community Choice Awards 2018 Glasgow
 
 ## ColourGravWave
 ![ColourGravWave](./ColourGravWave.png)
