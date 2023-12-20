@@ -46,8 +46,13 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'Producer',
+        description: 'Tag Games, A scopely Studio, August 2023 - Present',
+        link:'',
+      },
+      {
         name: 'Senior Production Coordinator: Online & Ped Writer',
-        description: 'Rockstar North, July 2022 - Present',
+        description: 'Rockstar North, July 2022 - May 2023',
         link:'',
       },
       {
