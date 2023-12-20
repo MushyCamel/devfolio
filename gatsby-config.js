@@ -47,7 +47,7 @@ module.exports = {
     experience: [
       {
         name: 'Producer',
-        description: 'Tag Games, A scopely Studio, August 2023 - Present',
+        description: 'Tag Games, A Scopely Studio, August 2023 - Present',
         link:'',
       },
       {
