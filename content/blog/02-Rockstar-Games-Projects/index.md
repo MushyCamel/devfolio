@@ -5,9 +5,9 @@ description: 'A light (NDA Compliant) breakdown of my work at Rockstar Games.'
 ---
 ![Read Dead Redemption](./Games-Red-Dead-Redemption-Open-World-2.jpg)
 
-## 2022 to Present - Senior Production Coordinator: Online & Ped Writer
+## 2022 to 2023 - Senior Production Coordinator: Online & Ped Writer
 
-As a Senior Production Coordinator as part of the writing team, my role involved ownership of dialogue in Rockstar's online projects while still having oversight on all active dialogue projects. I handle the creation and management of pipelines for various types of dialogue and content making me very familiar with the pipelines of other departments such as Design, Audio, Animation and Art. On top of my responsibilities as a producer, I also write dialogue for ambient world characters to help breathe life into the worlds we create. This is as much a technical role as a creative one as ambient systems are largely code driven and dialogue has to fit into very specific scenarios.
+As a Senior Production Coordinator as part of the writing team, my role involved ownership of dialogue in Rockstar's online projects while still having oversight on all other active dialogue projects, such as GTA6. I handled the creation and management of pipelines for various types of dialogue and content making me very familiar with the pipelines of other departments such as Design, Audio, Animation and Art. On top of my responsibilities as a producer, I also wrote dialogue for ambient world characters to help breathe life into the worlds we create. This is as much a technical role as a creative one as ambient systems are largely code driven and dialogue has to fit into very specific scenarios.
 
 ## 2019 to 2022 - Production Coordinator: Dialogue 
 
@@ -23,8 +23,9 @@ During my time as Production Coordinator I worked closely with Writers and Desig
 
 I first joined Rockstar North in Edinburgh as a Games Tester working in Quality Assurance. While on the team I was the contact lead for missions content on Grand Theft Online DLC content before making a shift to testing narrative content on both Read Dead Redemption 2 and Read Dead Redemption Online. My day-to-day included creating testing plans to fully evaluate the current state of a content's dialogue, writing and automating dialogue reports, and working closely with scripters and producers to close out and manage pipelines.
 
-### Releases 
-**As of 2022 at the time of writing**
+### Releases/Projects 
+**As of 2023 at the time of writing**
+- Grand Theft Auto 6 - In Development 
 - Grand Theft Auto V - PS5 and Xbox Series X/S (2022)
 - GTA Online: The Contract (2021)
 - GTA Online: Los Santos Tuners (2021)
