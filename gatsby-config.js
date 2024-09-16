@@ -19,28 +19,34 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
+        name: 'Stumble Guys',
+        description:
+          'Working in a variety of production teams since 2023 on Stumble Guys. From Producing bespoke tooling and render pipeline conversions to LiveOps production improvements.',
+        link: 'https://marktempini.com/blog/01-Tag-Scopely-Studio-Projects/',
+      },
+      {
         name: 'Grand Theft Auto V, Grand Theft Auto Online, Red Dead Redemption 2, Red Dead Online',
         description:
           'Working with Rockstar North since 2018 I have had a hand in delivering multiple entries into multiple iconic series. I am involved in ensuring that all narrative elements of the project are written and implemented to wider deadlines while overseeing relevant pipelines.',
-        link: 'https://marktempini.com/blog/01-Rockstar-Games-Projects/',
+        link: 'https://marktempini.com/blog/02-Rockstar-Games-Projects/',
       },
       {
         name: 'cf.me ',
         description:
           'We created two games as part of a wider news app that was developed with a philosophy of the experience being easy to pick up and difficult to master.',
-        link: 'https://marktempini.com/blog/02-cf-me/',
+        link: 'https://marktempini.com/blog/03-cf-me/',
       },
       {
         name: 'Rebound: Dodgeball Evolved',
         description:
           'Originally created for Dare to be Digital 2016, the game was developed part time while studying and eventually released for Xbox and PC in 2018. I was the lead designer on the project.',
-        link: 'https://marktempini.com/blog/03-Rebound-Dodgeball-Evolved/',
+        link: 'https://marktempini.com/blog/04-Rebound-Dodgeball-Evolved/',
       },
       {
         name: 'Game Jams',
         description:
           'Part of the Global Game Jam, our entry is a time-trial parkour game where you collect noodles. I was the sole designer on the project from conception to completion. The game won the community choice award and is available on itch.io for free!',
-        link: 'https://marktempini.com/blog/04-Game-Jams/',
+        link: 'https://marktempini.com/blog/05-Game-Jams/',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
