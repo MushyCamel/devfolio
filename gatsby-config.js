@@ -92,7 +92,7 @@ module.exports = {
       {
         name: 'Production',
         description:
-          '- Strong experience leading and coordinating teams from initial development through launch.\n- Exceptional verbal, written, and interpersonal communication skills.\n- Expertise in common Production methodologies (eg. Agile, Waterfall, Scrum) as well as software (Monday, ShotGrid, Excel, Jira, Airtable, Confluence, and in-house software).\n- Proven experience in a production role where I have supported cross-functional teams in the creation and delivery of sophisticated projects.\n- Excellent organizational & prioritization skills, attention to detail, process knowledge and ability to multi-task.',
+          '- Proven experience leading and coordinating teams from initial development through launch.\n- Skilled in translating complex project requirements into actionable roadmaps, ensuring alignment across design, engineering, and QA teams.\n- Expertise in common Production methodologies (eg. Agile, Waterfall, Scrum) as well as software (Monday, ShotGrid, Excel, Jira, Airtable, Confluence, and in-house software).\n- Proven experience in supporting cross-functional teams in the creation and delivery of sophisticated projects. \n Reduced production bottlenecks by implementing new workflows, resulting in faster deliverables (e.g., reducing lead times from 1 day to 4 weeks).\n- Strong communicator adept at facilitating cross-discipline collaboration and managing stakeholder expectations through clear, concise updates. \n- Expertise in managing multiple priorities simultaneously while maintaining attention to detail and fostering a positive, efficient work environment. ',
       },
       /*{
         name: 'Design',
