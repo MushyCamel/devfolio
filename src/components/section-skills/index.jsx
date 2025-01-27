@@ -9,14 +9,16 @@ const skills = [
     description:
       '',
     subskills: [
-      'Strong experience leading and coordinating teams from initial development through launch.',
-      'Exceptional verbal, written, and interpersonal communication skills.',
-      'Expertise in common Production methodologies (eg. Agile, Waterfall) as well as software (Monday, ShotGrid, Excel, Microsoft Project, Confluence, and in-house software).',
-      'Proven experience in a production role where I have supported cross-functional teams in the creation and delivery of sophisticated projects.',
-      'Excellent organizational & prioritization skills, attention to detail, process knowledge and ability to multi-task.'
+      'Proven experience leading and coordinating teams from initial development through launch.',
+      'Skilled in translating complex project requirements into actionable roadmaps, ensuring alignment across design, engineering, and QA teams.',
+      'Expertise in common Production methodologies (eg. Agile, Waterfall, Scrum) as well as software (Monday, ShotGrid, Excel, Jira, Airtable, Confluence, and in-house software).',
+      'Proven experience in supporting cross-functional teams in the creation and delivery of sophisticated projects.' ,
+      'Reduced production bottlenecks by implementing new workflows, resulting in faster deliverables (e.g., reducing lead times from 1 day to 4 weeks).',
+      'Strong communicator adept at facilitating cross-discipline collaboration and managing stakeholder expectations through clear, concise updates.', 
+      'Expertise in managing multiple priorities simultaneously while maintaining attention to detail and fostering a positive, efficient work environment. ', 
     ],
   },
-  {
+ /* {
     name: 'Design',
     description: '',      
     subskills: [
@@ -31,7 +33,7 @@ const skills = [
       'Strong knowledge of prototyping & playtesting best practices.',
       'Academic knowledge, focusing on the study of game design & level design with attention to narrative impacts through design choices.'
     ]
-  },
+  }, */
   // {
   //   name: 'Software',
   //   description: '', 
