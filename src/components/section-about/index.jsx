@@ -10,7 +10,7 @@ const SectionAbout = ({ about }) => {
         <p>{about}</p>
         <div class="auto-resizable-iframe">
           <div>
-           <iframe frameborder="0" allowfullscreen="" src="https://youtu.be/NubsVWl7RcU?autoplay=1&mute=1" title="Mark Tempini Showreel 2025" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+           <iframe frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/NubsVWl7RcU?si=YpQTAWLE2diSWNwf?autoplay=1&mute=1" title="Mark Tempini Showreel 2025" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
            </div>
         </div>
       </div>
