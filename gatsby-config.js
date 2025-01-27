@@ -5,7 +5,7 @@ module.exports = {
     // Your Name
     name: 'Mark Tempini',
     // Main Site Title
-    title: `Mark Tempini | Game Developer`,
+    title: `Mark Tempini | Producer`,
     // Description that goes under your name in main bio
     description: `Game Designer and Producer from Scotland.`,
     // Optional: Twitter account handle
