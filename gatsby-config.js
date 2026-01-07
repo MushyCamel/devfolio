@@ -52,8 +52,13 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'Senior Producer',
+        description: 'Scopely, February 2025 - Present',
+        link:'',
+      },
+      {
         name: 'Producer',
-        description: 'Tag Games, A Scopely Studio, August 2023 - Present',
+        description: 'Tag Games, A Scopely Studio, August 2023 - February 2025',
         link:'',
       },
       {
@@ -88,12 +93,19 @@ module.exports = {
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
-    skills: [
-      {
-        name: 'Production',
-        description:
-          '- Proven experience leading and coordinating teams from initial development through launch.\n- Skilled in translating complex project requirements into actionable roadmaps, ensuring alignment across design, engineering, and QA teams.\n- Expertise in common Production methodologies (eg. Agile, Waterfall, Scrum) as well as software (Monday, ShotGrid, Excel, Jira, Airtable, Confluence, and in-house software).\n- Proven experience in supporting cross-functional teams in the creation and delivery of sophisticated projects. \n Reduced production bottlenecks by implementing new workflows, resulting in faster deliverables (e.g., reducing lead times from 1 day to 4 weeks).\n- Strong communicator adept at facilitating cross-discipline collaboration and managing stakeholder expectations through clear, concise updates. \n- Expertise in managing multiple priorities simultaneously while maintaining attention to detail and fostering a positive, efficient work environment. ',
-      },
+skills: [
+  {
+    name: 'Production',
+    description:
+      '- Senior production leadership across full development and live service phases, from early planning through launch and sustained operation.\n' +
+      '- Strong ability to translate complex creative, technical, and business requirements into clear, actionable roadmaps aligned across design, engineering, QA, and publishing.\n' +
+      '- Experienced in adapting production methodologies (Agile, Waterfall, Hybrid) to suit team needs and project realities.\n' +
+      '- Proven track record supporting cross-functional teams to deliver sophisticated, large-scale projects in fast-paced environments.\n' +
+      '- Successfully reduced production bottlenecks by introducing clearer workflows and longer planning horizons (e.g. extending lead times from ad-hoc 1-day turnarounds to structured 4-week runways).\n' +
+      '- Clear and empathetic communicator, experienced in aligning stakeholders through concise updates, risk visibility, and expectation management.\n' +
+      '- Comfortable managing multiple priorities simultaneously while maintaining focus, quality, and a healthy team environment.\n' +
+      '- Proficient with industry-standard production tools including Jira, Confluence, ShotGrid, Monday, Airtable, Excel, and bespoke in-house systems.'
+  },
       /*{
         name: 'Design',
         description: 'Able to take feedback, distilling messages into actionable items that move designs and content in the desired direction.\n- Strong understanding of environmental design and how it integrates with gameplay moments\n- Maintaining project alignment both within and outside the design department.\n- Experience of being the champion for a product including giving presentations to press and at conferences & events\n- Understanding of psychological mechanisms that keep players engaged\n- Strong knowledge of all game design disciplines like system design, game economies etc\n- Self-motivated and fast learning\n- Intense creativity, a passion to innovate, and a drive to go beyond what is directly asked\n- Demonstrated success designing and creating compelling gameplay\n- Strong knowledge of prototyping & playtesting best practices\n- Academic knowledge, focusing on the study of game design & level design with attention to narrative impacts through design choices.',      
