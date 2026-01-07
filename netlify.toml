@@ -1,2 +1,2 @@
 [build]
-  environment = { NETLIFY_BUILD_IMAGE = "ubuntu-22.04" }
+  environment = { NODE_VERSION = "22", NETLIFY_BUILD_IMAGE = "ubuntu-22.04" }
