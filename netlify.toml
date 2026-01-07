@@ -1,2 +1,4 @@
 [build]
-  environment = { NODE_VERSION = "22", NETLIFY_BUILD_IMAGE = "ubuntu-22.04" }
+  command = "npm run build"
+  publish = "public"
+  environment = { NODE_VERSION = "18", NETLIFY_BUILD_IMAGE = "ubuntu-22.04" }
